@@ -1,0 +1,7 @@
+.myDialog {
+    -fx-background-color: #ffc107;
+}
+
+.myDialog .button {
+    -fx-background-color: #dc3545;
+}
